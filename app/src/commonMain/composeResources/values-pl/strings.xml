@@ -61,5 +61,21 @@
     <string name="no_audio_files">Brak Plików audio</string>
     <string name="no_folder_selected">Nie wybrano folderu</string>
     <string name="export">Eksportuj</string>
-    <string name="export_info">Eksportuj piosenki do Download/Rush</string>
+    <string name="export_info">Eksportowanie piosenek do Download/Rush</string>
+    <string name="restore">Przywróć</string>
+    <string name="restore_info">Przywracanie z wybranego pliku eksportu</string>
+    <string name="choose_file">Wybierz plik</string>
+    <string name="rush_mode">Tryb Rush</string>
+    <string name="rush_mode_desc">Wyszukuje w powiadomieniach aktualnie odtwarzany utwór i pobiera jego tekst. Automatycznie zmienia tekst piosenki wraz z odtwarzaczem muzyki.</string>
+    <string name="look_and_feel">Wygląd i działanie</string>
+    <string name="look_and_feel_info">Dostosuj aplikację na różne sposoby</string>
+    <string name="use_system_theme">Użyj Motywu systemu</string>
+    <string name="dark_theme">Użyj Ciemnego motywu</string>
+    <string name="amoled">Paleta AMOLED</string>
+    <string name="use_system_theme_desc">Użyj takiego samego motywu co system</string>
+    <string name="amoled_desc">Najlepiej doświadczany na ekranach AMOLED</string>
+    <string name="palette_style">Styl Palety</string>
+    <string name="seed_color">Wybierz punkt wyjściowy koloru</string>
+    <string name="seed_color_desc">Wybierz kolor, aby wygenerować z niego paletę</string>
+    <string name="hypnotic_canvas_desc">(Eksperymentalne) Hypnotic canvas widoczne na stronie tekstu piosenki. Może wpływać na wydajność.</string>
 </resources>
