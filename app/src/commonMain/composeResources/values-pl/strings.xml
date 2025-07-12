@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="search">Wyszukaj tekst piosenki</string>
+    <string name="saved">Zapisane</string>
+    <string name="settings">Ustawienia</string>
+    <string name="empty">Jeszcze niczego tutaj nie ma</string>
+    <string name="share">Udostępnij</string>
+    <string name="save">Zapisz zmiany</string>
+    <string name="delete_confirmation">Czy na pewno chcesz usunąć wszystkie zapisane teksty piosenek?</string>
+    <string name="no_lyrics">Nie można uzyskać Tekstów piosenek z LRCLIB</string>
+    <string name="suggestion">Może chcesz coś wyszukać?</string>
+    <string name="downloaded">Zapisane teksty piosenek</string>
+    <string name="delete_all">Usuń wszystkie teksty piosenek</string>
+    <string name="notification">Usługa Nasłuchiwania Powiadomień</string>
+    <string name="unknown_album">Nieznany album</string>
+    <string name="track">utwór</string>
+    <string name="artist">artysta</string>
 </resources>
