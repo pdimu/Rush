@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search">Wyszukaj tekst piosenki</string>
+    <string name="search">Wyszukaj tekst utworu</string>
     <string name="saved">Zapisane</string>
     <string name="settings">Ustawienia</string>
     <string name="empty">Jeszcze niczego tutaj nie ma</string>
@@ -20,7 +20,7 @@
     <string name="grant_permission">Przyznaj Dostęp do Powiadomień</string>
     <string name="notification_permission">Dostęp do Powiadomień jest wymagany, aby uzyskiwać automatycznie teksty piosenek.</string>
     <string name="rounded_corners">Zaokrąglone Krawędzie</string>
-    <string name="max_lines">Maksymalna liczba Linii tekstu piosenki do udostępnienia</string>
+    <string name="max_lines">Maksymalna liczba wierszy do udostępnienia</string>
     <string name="theme">Motyw Aplikacji</string>
     <string name="sort_title_asc">Tytuł (A-Z)</string>
     <string name="sort_title_desc">Tytuł (Z-A)</string>
@@ -30,7 +30,7 @@
     <string name="select_folder">Wybierz Folder</string>
     <string name="download">Pobierz</string>
     <string name="done">Zrobione</string>
-    <string name="fetching">Ładowanie tekstu piosenki dla</string>
+    <string name="fetching">Ładowanie tekstu utworu dla</string>
     <string name="searching">Wyszukiwanie</string>
     <string name="error">Coś poszło nie tak…</string>
     <string name="try_again">Spróbować ponownie?</string>
@@ -55,7 +55,7 @@
     <string name="exporting">Eksportowanie</string>
     <string name="exported">Wyeksportowano</string>
     <string name="restoring">Przywracanie piosenek</string>
-    <string name="restored">Przywrócono piosenki</string>
+    <string name="restored">Przywrócono utwory</string>
     <string name="restore_failed">Przywracanie nie powiodło się</string>
     <string name="about">O aplikacji</string>
     <string name="no_audio_files">Brak Plików audio</string>
@@ -66,7 +66,7 @@
     <string name="restore_info">Przywracanie z wybranego pliku eksportu</string>
     <string name="choose_file">Wybierz plik</string>
     <string name="rush_mode">Tryb Rush</string>
-    <string name="rush_mode_desc">Wyszukuje w powiadomieniach aktualnie odtwarzany utwór i pobiera jego tekst. Automatycznie zmienia tekst piosenki wraz z odtwarzaczem muzyki.</string>
+    <string name="rush_mode_desc">Wyszukuje w powiadomieniach aktualnie odtwarzany utwór i pobiera jego tekst. Automatycznie zmienia tekst utworu wraz z odtwarzaczem muzyki.</string>
     <string name="look_and_feel">Wygląd i działanie</string>
     <string name="look_and_feel_info">Dostosuj aplikację na różne sposoby</string>
     <string name="use_system_theme">Użyj Motywu systemu</string>
@@ -77,7 +77,7 @@
     <string name="palette_style">Styl Palety</string>
     <string name="seed_color">Wybierz punkt wyjściowy koloru</string>
     <string name="seed_color_desc">Wybierz kolor, aby wygenerować z niego paletę</string>
-    <string name="hypnotic_canvas_desc">(Eksperymentalne) Hypnotic canvas widoczne na stronie tekstu piosenki. Może wpływać na wydajność</string>
+    <string name="hypnotic_canvas_desc">(Eksperymentalne) Hypnotic canvas widoczne na stronie tekstu utworu. Może wpływać na wydajność</string>
     <string name="extract_colors">Wyodrębnij kolory</string>
     <string name="extract_colors_desc">Ustawia paletę kolorów za pomocą okładki albumu dla obecnie przeglądanego utworu</string>
     <string name="source">Źródło</string>
@@ -98,11 +98,27 @@
     <string name="mesh_speed">Prędkość Mesh</string>
     <string name="use_extracted_colors">Użyj Wyodrębnionych Kolorów</string>
     <string name="about_libraries">O Bibliotekach</string>
-    <string name="loading_genius">Ładowanie tekstu piosenki z Genius</string>
+    <string name="loading_genius">Ładowanie tekstu utworu z Genius</string>
     <string name="retry">Ponów</string>
     <string name="system">System</string>
     <string name="light">Jasny</string>
     <string name="dark">Ciemny</string>
     <string name="select_app_theme">Wybierz Motyw Aplikacji</string>
-    <string name="fullscreen">Widok pełnoekranowy</string>
+    <string name="fullscreen">Tryb pełnoekranowy</string>
+    <string name="fullscreen_desc">Ukryj paski systemowe na stronie tekstu piosenki</string>
+    <string name="customisations">Dostosowywanie Tekstu Piosenki</string>
+    <string name="text_alignment">Wyrównanie</string>
+    <string name="center">Do środka</string>
+    <string name="end">Na koniec</string>
+    <string name="start">Na początek</string>
+    <string name="font_size">Wielkość czcionki</string>
+    <string name="font_weight">Grubość czcionki</string>
+    <string name="line_height">Wysokość wiersza</string>
+    <string name="letter_spacing">Odstęp między znakami</string>
+    <string name="vertical">Pionowy</string>
+    <string name="quote">Cytat</string>
+    <string name="card_font">Czcionka Karty</string>
+    <string name="couplet">Dwuwierszowy</string>
+    <string name="messy">Nieporządek</string>
+    <string name="chat">Czat</string>
 </resources>
