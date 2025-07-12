@@ -1,0 +1,9 @@
+Rush jest prostą aplikacją na Androida, która pozwala wyszukiwać, przeglądać, zapisywać i udostępniać teksty Twoich ulubionych utworów.
+
+Funkcje 
+
+- Wyszukiwanie, przeglądanie i przechowywanie tekstów utworów
+- Udostępnianie znajomym tekstów utworów jako kart z możliwością ich dostosowania
+- Automatyczne wyszukiwanie obecnie odtwarzanego utworu (Wymaga uprawnienia Dostępu do Powiadomień)
+- Zsynchronizowane teksty utworów
+- Zbiorcze pobieranie tekstów utworów
