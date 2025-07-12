@@ -77,5 +77,19 @@
     <string name="palette_style">Styl Palety</string>
     <string name="seed_color">Wybierz punkt wyjściowy koloru</string>
     <string name="seed_color_desc">Wybierz kolor, aby wygenerować z niego paletę</string>
-    <string name="hypnotic_canvas_desc">(Eksperymentalne) Hypnotic canvas widoczne na stronie tekstu piosenki. Może wpływać na wydajność.</string>
+    <string name="hypnotic_canvas_desc">(Eksperymentalne) Hypnotic canvas widoczne na stronie tekstu piosenki. Może wpływać na wydajność</string>
+    <string name="extract_colors">Wyodrębnij kolory</string>
+    <string name="extract_colors_desc">Ustawia paletę kolorów za pomocą okładki albumu dla obecnie przeglądanego utworu</string>
+    <string name="source">Źródło</string>
+    <string name="muted">Stonowane</string>
+    <string name="vibrant">Żywe</string>
+    <string name="custom">Niestandardowe</string>
+    <string name="fit">Dopasowany</string>
+    <string name="standard">Standardowy</string>
+    <string name="spotify">Spotify</string>
+    <string name="rushed">Rushed</string>
+    <string name="image">Obraz</string>
+    <string name="hypnotic">Hypnotic</string>
+    <string name="rounded">Zaokrąglony</string>
+    <string name="default_">Domyślne</string>
 </resources>
