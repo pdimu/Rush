@@ -90,6 +90,19 @@
     <string name="rushed">Rushed</string>
     <string name="image">Obraz</string>
     <string name="hypnotic">Hypnotic</string>
-    <string name="rounded">Zaokrąglony</string>
+    <string name="rounded">Zaokrąglone</string>
     <string name="default_">Domyślne</string>
+    <string name="material_theme">Material Theme</string>
+    <string name="material_theme_desc">Styl na podstawie Twojej tapety</string>
+    <string name="font">Wybierz czcionkę aplikacji</string>
+    <string name="mesh_speed">Prędkość Mesh</string>
+    <string name="use_extracted_colors">Użyj Wyodrębnionych Kolorów</string>
+    <string name="about_libraries">O Bibliotekach</string>
+    <string name="loading_genius">Ładowanie tekstu piosenki z Genius</string>
+    <string name="retry">Ponów</string>
+    <string name="system">System</string>
+    <string name="light">Jasny</string>
+    <string name="dark">Ciemny</string>
+    <string name="select_app_theme">Wybierz Motyw Aplikacji</string>
+    <string name="fullscreen">Widok pełnoekranowy</string>
 </resources>
