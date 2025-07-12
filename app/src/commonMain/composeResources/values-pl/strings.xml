@@ -49,7 +49,7 @@
     <string name="backup_info">Importuj lub Eksportuj bazę danych zapisanych tekstów piosenek</string>
     <string name="batch_download_info">Pobierz teksty lokalnie zapisanych piosenek za jednym razem.</string>
     <string name="sort_date_added">Ostatnio dodane</string>
-    <string name="rush_branding"></string>
+    <string name="rush_branding">Rush</string>
     <string name="translate">Tłumaczenie</string>
     <string name="rate_on_play">Oceń w Google Play</string>
     <string name="exporting">Eksportowanie</string>
@@ -105,8 +105,8 @@
     <string name="dark">Ciemny</string>
     <string name="select_app_theme">Wybierz Motyw Aplikacji</string>
     <string name="fullscreen">Tryb pełnoekranowy</string>
-    <string name="fullscreen_desc">Ukryj paski systemowe na stronie tekstu piosenki</string>
-    <string name="customisations">Dostosowywanie Tekstu Piosenki</string>
+    <string name="fullscreen_desc">Ukryj paski systemowe na stronie tekstu utworu</string>
+    <string name="customisations">Dostosowywanie Tekstu Utworu</string>
     <string name="text_alignment">Wyrównanie</string>
     <string name="center">Do środka</string>
     <string name="end">Na koniec</string>
@@ -121,4 +121,6 @@
     <string name="couplet">Dwuwierszowy</string>
     <string name="messy">Nieporządek</string>
     <string name="chat">Czat</string>
+    <string name="vibrant_colors">Użyj Żywych Kolorów</string>
+    <string name="bmc">Buy me a Coffee</string>
 </resources>
