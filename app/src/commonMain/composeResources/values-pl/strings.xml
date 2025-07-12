@@ -17,5 +17,13 @@
     <string name="artist">wykonawca</string>
     <string name="width">Szerokość</string>
     <string name="colors">Niestandardowe Kolory</string>
-    <string name="grant_permission">Przyznaj Uprawnienia Powiadomień</string>
+    <string name="grant_permission">Przyznaj Dostęp do Powiadomień</string>
+    <string name="notification_permission">Dostęp do Powiadomień jest wymagany, aby uzyskiwać automatycznie teksty piosenek.</string>
+    <string name="rounded_corners">Zaokrąglone Krawędzie</string>
+    <string name="max_lines">Maksymalna liczba Linii tekstu piosenki do udostępnienia</string>
+    <string name="theme">Motyw Aplikacji</string>
+    <string name="sort_title_asc">Tytuł (A-Z)</string>
+    <string name="sort_title_desc">Tytuł (Z-A)</string>
+    <string name="sort_artists_asc">Pogrupowane według wykonawców</string>
+    <string name="sort_album_asc">Pogrupowane według Albumów</string>
 </resources>
