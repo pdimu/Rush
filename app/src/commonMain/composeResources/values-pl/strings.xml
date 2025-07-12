@@ -14,5 +14,8 @@
     <string name="notification">Usługa Nasłuchiwania Powiadomień</string>
     <string name="unknown_album">Nieznany album</string>
     <string name="track">utwór</string>
-    <string name="artist">artysta</string>
+    <string name="artist">wykonawca</string>
+    <string name="width">Szerokość</string>
+    <string name="colors">Niestandardowe Kolory</string>
+    <string name="grant_permission">Przyznaj Uprawnienia Powiadomień</string>
 </resources>
