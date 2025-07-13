@@ -89,7 +89,7 @@
     <string name="spotify">Spotify</string>
     <string name="rushed">Rushed</string>
     <string name="image">Obraz</string>
-    <string name="hypnotic">Hypnotic</string>
+    <string name="hypnotic">Hipnotyczne</string>
     <string name="rounded">Zaokrąglone</string>
     <string name="default_">Domyślne</string>
     <string name="material_theme">Material Theme</string>
@@ -123,4 +123,6 @@
     <string name="chat">Czat</string>
     <string name="vibrant_colors">Użyj Żywych Kolorów</string>
     <string name="bmc">Buy me a Coffee</string>
+    <string name="correct_lyrics">Popraw tekst</string>
+    <string name="hypnotic_canvas">Hipnotyczny Canvas</string>
 </resources>
