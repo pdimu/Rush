@@ -49,6 +49,14 @@ jobs:
           name: beta-apk
           path: app/build/outputs/apk/beta/app-beta.apk
 
+      - name: Upload to Release Action
+  uses: Shopify/upload-to-release@v2.0.0
+  with:
+    name: beta-apk
+    path: app/build/outputs/apk/beta/app-beta.apk
+    repo-token: ${{ secrets.GITHUB_TOKEN }}
+          
+
       - name: Upload APK to Discord
         shell: bash
         env:
